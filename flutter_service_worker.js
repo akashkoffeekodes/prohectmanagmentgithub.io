@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "ceb8c0fb8ec808ae3def2fd64818878e",
-"assets/AssetManifest.smcbin": "ee6a837e4f1940bbcf20b445bbf7b333",
+const RESOURCES = {"assets/AssetManifest.json": "73915909e3e781a272a47f0079ef5f01",
+"assets/AssetManifest.smcbin": "6f85886c2ba1d8237d7cd8045fc23141",
 "assets/assets/fonts/Roboto-Black.ttf": "d6a6f8878adb0d8e69f9fa2e0b622924",
 "assets/assets/fonts/Roboto-Bold.ttf": "b8e42971dec8d49207a8c8e2b919a6ac",
 "assets/assets/fonts/Roboto-Light.ttf": "881e150ab929e26d1f812c4342c15a7c",
@@ -55,7 +55,6 @@ const RESOURCES = {"assets/AssetManifest.json": "ceb8c0fb8ec808ae3def2fd64818878
 "assets/assets/images/user.svg": "d858cf52e31b0f9a3066fa3c5192ddca",
 "assets/assets/images/web.png": "659b22c0e5bec735dd08691f7f9e0bca",
 "assets/assets/images/widget.svg": "574cf33ed0b62ef75b2301fce64b1dde",
-"assets/assets/svgimg/userprofile.svg": "fd0aa912fefc4295b1e6bdf1b2dcd5d6",
 "assets/FontManifest.json": "c8a4c446d86fbb06f35bcc264decff0d",
 "assets/fonts/MaterialIcons-Regular.otf": "04a44fa177065074146576f4b7cf08ae",
 "assets/NOTICES": "2cc335316846ce3284c02ee5d6419b1f",
@@ -74,9 +73,9 @@ const RESOURCES = {"assets/AssetManifest.json": "ceb8c0fb8ec808ae3def2fd64818878
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b9d6a71815aeb612c6c0a88fff90790b",
-"/": "b9d6a71815aeb612c6c0a88fff90790b",
-"main.dart.js": "384cb066ab88af795ce400ede76f21bf",
+"index.html": "44a74149c5a02f14f3c724662cf6eb1b",
+"/": "44a74149c5a02f14f3c724662cf6eb1b",
+"main.dart.js": "e4527afa866cccd8a621b38faa7b88a3",
 "manifest.json": "e0d838137226b361c9903d30391cf42c",
 "version.json": "777c132226cff39ffcf7d16a72d78e7d"};
 // The application shell files that are downloaded before a service worker can
