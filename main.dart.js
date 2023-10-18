@@ -90624,7 +90624,7 @@ this.d=A.bM(a,!0,t.F)
 s=t.l
 r=A.t(a,q,s).w
 s=A.t(a,q,s).w.a.a*0.02
-return A.r(q,new A.k(B.bO,A.o(A.b([A.bJ(!1,!0,A.a1("assets/icons/menu.svg",B.o,27,27),q,!0,q,q,q,q,q,q,q,q,q,new A.avq(this),q,q,q,q),B.j,A.a1("assets/icons/scan.svg",B.o,25,25),A.c(q,q,s),A.a1("assets/icons/bell.svg",B.o,25,25),A.c(q,q,s),A.ef("assets/icons/circleprofile.png",30,q),A.c(q,q,s),A.a1("assets/icons/setting.svg",B.o,25,25)],t.p),B.m,B.i,B.f),q),B.l,q,q,r.a.b*0.09,q,q,q,q)}}
+return A.r(q,new A.k(B.bO,A.o(A.b([A.bJ(!1,!0,A.a1("assets/assets/icons/menu.svg",B.o,15,q),q,!0,q,q,q,q,q,q,q,q,q,new A.avq(this),q,q,q,q),B.j,A.a1("assets/assets/icons/scan.svg",B.o,25,25),A.c(q,q,s),A.a1("assets/assets/icons/bell.svg",B.o,25,25),A.c(q,q,s),A.ef("assets/icons/circleprofile.png",30,q),A.c(q,q,s),A.a1("assets/assets/icons/setting.svg",B.o,25,25)],t.p),B.m,B.i,B.f),q),B.l,q,q,r.a.b*0.09,q,q,q,q)}}
 A.avq.prototype={
 $0(){this.a.d.TA()},
 $S:0}
@@ -91367,7 +91367,7 @@ s=t.l
 r=A.t(a,l,s).w.a.b
 q=A.t(a,l,s).w.a.a
 if(A.t(a,l,s).w.a.a<900){p=q*0.02
-p=A.r(l,new A.k(B.bO,A.o(A.b([A.bJ(!1,!0,A.aL("assets/icons/menu.svg",B.o,27),l,!0,l,l,l,l,l,l,l,l,l,new A.auM(m),l,l,l,l),B.j,A.aL("assets/icons/scan.svg",B.o,25),A.c(l,l,p),A.aL("assets/icons/bell.svg",B.o,25),A.c(l,l,p),A.ef("assets/icons/circleprofile.png",30,l),A.c(l,l,p),A.aL("assets/icons/setting.svg",B.o,25)],t.p),B.m,B.i,B.f),l),B.l,l,l,r*0.1,l,l,l,q)}else p=A.c(l,l,l)
+p=A.r(l,new A.k(B.bO,A.o(A.b([A.bJ(!1,!0,A.aL("assets/assets/icons/menu.svg",B.o,15),l,!0,l,l,l,l,l,l,l,l,l,new A.auM(m),l,l,l,l),B.j,A.aL("assets/assets/icons/scan.svg",B.o,25),A.c(l,l,p),A.aL("assets/assets/icons/bell.svg",B.o,25),A.c(l,l,p),A.ef("assets/icons/circleprofile.png",30,l),A.c(l,l,p),A.aL("assets/assets/icons/setting.svg",B.o,25)],t.p),B.m,B.i,B.f),l),B.l,l,l,r*0.1,l,l,l,q)}else p=A.c(l,l,l)
 s=A.t(a,l,s).w.a.a<900?A.c(l,l,l):B.M_
 o=m.d.b
 if(o==="dashboard")o=B.M0
