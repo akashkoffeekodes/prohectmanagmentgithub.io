@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "73915909e3e781a272a47f0079ef5f01",
-"assets/AssetManifest.smcbin": "6f85886c2ba1d8237d7cd8045fc23141",
+const RESOURCES = {"assets/AssetManifest.json": "c116f9f6bb51dc8ac56589f7f3f544d9",
+"assets/AssetManifest.smcbin": "e192579e7deec25971d2e794e40dffac",
 "assets/assets/fonts/Roboto-Black.ttf": "d6a6f8878adb0d8e69f9fa2e0b622924",
 "assets/assets/fonts/Roboto-Bold.ttf": "b8e42971dec8d49207a8c8e2b919a6ac",
 "assets/assets/fonts/Roboto-Light.ttf": "881e150ab929e26d1f812c4342c15a7c",
@@ -47,6 +47,7 @@ const RESOURCES = {"assets/AssetManifest.json": "73915909e3e781a272a47f0079ef5f0
 "assets/assets/images/icons.svg": "099fbfc55dc061a2b2fb440fbb12daeb",
 "assets/assets/images/jobs.svg": "d2b80419ca66418e3cd212c5609a5bfe",
 "assets/assets/images/levae.svg": "c4a978f045da9218550a3eac014bac8d",
+"assets/assets/images/minus.svg": "38858423ec1ba2a14125917c7269e14b",
 "assets/assets/images/plus.svg": "b2e1ea2ac49a3c0b9a8fc7f491416365",
 "assets/assets/images/profile.png": "ec022168c71f1440c99ac711113dcec7",
 "assets/assets/images/projectgroup.png": "151a7b0624c6b15258eef6268cdfcec6",
@@ -73,9 +74,9 @@ const RESOURCES = {"assets/AssetManifest.json": "73915909e3e781a272a47f0079ef5f0
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "15be1fea6f36f8659fad4650ee2df363",
-"/": "15be1fea6f36f8659fad4650ee2df363",
-"main.dart.js": "d194e5a529dd22b1cefb541558411410",
+"index.html": "c8167f17e9ceb96ac2c4117a09dffbba",
+"/": "c8167f17e9ceb96ac2c4117a09dffbba",
+"main.dart.js": "445a064fd090304047c88ac394be9abd",
 "manifest.json": "e0d838137226b361c9903d30391cf42c",
 "version.json": "777c132226cff39ffcf7d16a72d78e7d"};
 // The application shell files that are downloaded before a service worker can
